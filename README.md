@@ -249,3 +249,5 @@ prueba 3
 prueba 4
 
 prueba finaaal
+
+prueba trivy y daemon back
